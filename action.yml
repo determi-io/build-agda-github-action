@@ -1,7 +1,7 @@
 name: 'Build Agda project'
 description: 'Build Agda project'
-inputs: []
-outputs: []
+# inputs: []
+# outputs: []
 runs:
   using: 'docker'
   image: 'Dockerfile'
