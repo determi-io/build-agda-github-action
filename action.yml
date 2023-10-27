@@ -5,4 +5,3 @@ description: 'Build Agda project'
 runs:
   using: 'docker'
   image: 'Dockerfile'
-  args:
